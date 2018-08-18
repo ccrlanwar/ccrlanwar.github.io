@@ -166,11 +166,9 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/chairilanwar_"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
