@@ -133,11 +133,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "Agustus 2018 - Sekarang"
+    description: "Bikin baru lagi!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Maret 20017 - Augustus 2018"
+    description: "Diblokir Kemkominfo"
 
 # First image of the Timeline
 
