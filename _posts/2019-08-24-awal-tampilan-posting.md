@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Awal Tampilan Posting
-category: Category
+category: Coba
 tags: [ 'Percobaan' ]
 ---
 Awal mula melihat cara posting blog di Github sangat jauh berbeda dengan penyedia layanan blog convensional seperti Blogger, Wordpress, dan Tumblr.
