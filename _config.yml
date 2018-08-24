@@ -128,7 +128,7 @@ disqus-shortname: "chairil00r"
 syntax-highlight: True
 
 ############
-# Sejarah #
+# Timeline #
 ############
 
 events:
@@ -136,7 +136,7 @@ events:
     date: "Agustus 2018 - Sekarang"
     description: "Bikin baru lagi!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "Maret 20017 - Augustus 2018"
+    date: "Maret 2017 - Augustus 2018"
     description: "Diblokir Kemkominfo"
 
 # First image of the Timeline
