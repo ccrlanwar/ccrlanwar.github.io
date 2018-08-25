@@ -136,7 +136,7 @@ events:
     date: "Agustus 2018 - Sekarang"
     description: "Bikin baru lagi!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "Maret 2017 - Augustus 2018"
+    date: "Maret 2017 - Agustus 2018"
     description: "Diblokir Kemkominfo"
 
 # First image of the Timeline
@@ -167,10 +167,8 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "twitter"
     url: "https://twitter.com/chairilanwar_"
-  - title: "askfm"
-    url: "https://ask.fm/chairilanwar_"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com"
   - title: "rss"
     url: "/feed.xml"
 
