@@ -142,6 +142,8 @@ events:
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
+   date: "7 April 2014"
+   description: "Permulaan Raw Thought"
 
 ###########
 # Contact #
