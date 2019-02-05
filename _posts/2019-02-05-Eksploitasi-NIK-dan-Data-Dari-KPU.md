@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Eksploitasi Data Dari KPU
+title: Eksploitasi NIK dan Data Dari KPU
 category: IT
 tags: [ 'tech' ]
 ---
