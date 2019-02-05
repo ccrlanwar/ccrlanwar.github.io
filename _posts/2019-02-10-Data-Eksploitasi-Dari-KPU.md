@@ -35,5 +35,5 @@ Selanjutnya, dengan bekal informasi perkenalan pertama kali, ia dapat mengetahui
 Selanjutnya ia hanya butuh sedikit upaya dan kesabaran demi mengetahui rangkaian digit kode wilayah dan sistem komputasi terakhir di NIK. Bam! A dapat merekayasa pertemuan selanjutnya di TPS sambil mungkin berpura-pura gila.
 
 PS: 
-Demi menghindari penyalahgunaan wewenang, segala bukti dan interuksi terpaksa disembunyikan. Jika Anda merupakan teknisi IT di KPU atau yang terlibat, tanpa segan silakan hubungi saya lewat <a href="https://www.kripto.web.id/#contact">email</a> untuk diskusi lebih lanjut.
+Demi menghindari penyalahgunaan wewenang, segala bukti dan interuksi terpaksa disembunyikan. Jika Anda merupakan teknisi IT di KPU atau yang terlibat, tanpa segan silakan hubungi saya lewat <a href="https://www.kripto.web.id/contact">email</a> untuk diskusi lebih lanjut.
 
