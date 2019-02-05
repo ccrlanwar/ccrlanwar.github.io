@@ -6,7 +6,7 @@ category: IT
 tags: [ 'tech' ]
 ---
 
-KPU, dengan segala fungsi dan otoritasnya, diam-diam menggunakan kewenangannya tanpa mengindahkan privasi data masyarakat Indonesia. Pasalnya, KPU telah merilis daftar <a href="https://www.cnnindonesia.com/nasional/20181215171713-32-353929/kpu-jumlah-pemilih-tetap-pemilu-2019-capai-192-juta" target="\_blank">192 juta hak pemilih 21019</a> di situsnya, yang memungkinkan dapat diakses langsung secara global.
+KPU, dengan segala fungsi dan otoritasnya, diam-diam menggunakan kewenangannya tanpa mengindahkan privasi data masyarakat Indonesia. Pasalnya, KPU telah merilis daftar <a href="https://www.cnnindonesia.com/nasional/20181215171713-32-353929/kpu-jumlah-pemilih-tetap-pemilu-2019-capai-192-juta" target="\_blank">192 juta hak pemilih 2019</a> di situsnya, yang memungkinkan dapat diakses langsung secara global.
 
 Data yang saya maksud berupa digit NIK yang telah terenkripsi sebagian, lokasi atau tempat tinggal pemilik, dan siapa saja anggota keluarganya. 
 
