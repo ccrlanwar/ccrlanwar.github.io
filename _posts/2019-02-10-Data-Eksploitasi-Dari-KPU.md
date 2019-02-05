@@ -1,9 +1,11 @@
+---
 layout: post
 section-type: post
 title: Data Eksploitasi Dari KPU
 category: IT
-tags: [ 'Tech' ]
+tags: [ 'tech' ]
 ---
+
 KPU, dengan segala fungsi dan otoritasnya, diam-diam menggunakan kewenangannya tanpa mengindahkan privasi data masyarakat Indonesia. Pasalnya, KPU telah merilis daftar 192 juta hak pemilih di situsnya, yang memungkinkan dapat diakses langsung secara global.
 
 Data yang saya maksud berupa NIK yang telah terenkripsi sebagian, di mana presisi tempat tinggal pemilik, dan siapa saja anggota keluarganya. 
