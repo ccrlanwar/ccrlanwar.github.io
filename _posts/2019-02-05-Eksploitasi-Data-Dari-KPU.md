@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Data Eksploitasi Dari KPU
+title: Eksploitasi Data Dari KPU
 category: IT
 tags: [ 'tech' ]
 ---
