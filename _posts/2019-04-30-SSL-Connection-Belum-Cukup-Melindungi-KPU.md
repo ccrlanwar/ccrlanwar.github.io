@@ -19,3 +19,7 @@ Akan tetapi SSL yang memiliki simbol gembok hijau di browser pada situng KPU bel
 <br>
 <img height="700" src="https://photos.app.goo.gl/XcK53BhrLDWsgKKx6" />
 <br>
+
+<br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pewTFOi"><a href="//imgur.com/pewTFOi"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<br>
