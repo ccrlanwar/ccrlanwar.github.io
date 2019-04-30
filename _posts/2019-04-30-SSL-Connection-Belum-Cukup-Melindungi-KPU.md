@@ -14,12 +14,6 @@ Di samping kesalahan yang telah diklarifikasi tersebut, tentu patut pula kita pe
 
 Akan tetapi SSL yang memiliki simbol gembok hijau di browser pada situng KPU belum cukup melindungi manipulasi front-end jumlah suara melalui inspect element di browser. Hal ini tentu sangat merugikan pihak KPU sendiri karena pihak lain mampu mengedit (mark up and down) jumlah suara masing-masing calon presiden.
 
-![Screenshot](https://photos.app.goo.gl/XcK53BhrLDWsgKKx6)
-
-<br>
-<img height="700" src="https://photos.app.goo.gl/XcK53BhrLDWsgKKx6" />
-<br>
-
-<br>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/pewTFOi"><a href="//imgur.com/pewTFOi"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<br>
+| col 1      | col 2      |
+|------------|-------------|
+| <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250"> | <img src="https://imgur.com/a/pewTFOi" width="250"> | 
