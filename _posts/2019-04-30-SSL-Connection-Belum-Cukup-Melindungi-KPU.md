@@ -13,3 +13,5 @@ Tentu selama proses input data suara rakyat terdapat <a href="https://nasional.t
 Di samping kesalahan yang telah diklarifikasi tersebut, tentu patut pula kita perhatikan dari segi perlindungan teknis menyangkut situng KPU. Di mana banyak sekali ditemukan <a href="https://www.cnnindonesia.com/teknologi/20190424231311-185-389417/kpu-sebut-situsnya-diretas-ratusan-hacker-setiap-hari" target="\_blank">serangan pihak ke tiga di situsnya</a>. Beruntung dari segi front-end KPU telah dilindungi <a href="http://info.ssl.com/article.aspx?id=10241" target="\_blank">SSL connection</a> (sertifikat koneksi yang terenkripsi).
 
 Akan tetapi SSL yang memiliki simbol gembok hijau di browser pada situng KPU belum cukup melindungi manipulasi front-end jumlah suara melalui inspect element di browser. Hal ini tentu sangat merugikan pihak KPU sendiri karena pihak lain mampu mengedit (mark up and down) jumlah suara masing-masing calon presiden.
+
+![Screenshot](https://photos.app.goo.gl/XcK53BhrLDWsgKKx6)
