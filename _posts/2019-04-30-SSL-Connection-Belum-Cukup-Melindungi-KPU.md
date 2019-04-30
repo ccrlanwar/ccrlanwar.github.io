@@ -27,7 +27,7 @@ Gambar SS 0.2 di atas merupakan penampang laman Situng KPU tanpa manipulasi.
 SS 0.3
 <img src="https://i.imgur.com/DH11H0R.jpg" />
 
-Indikator address bar Situng KPU menunjukan sambungan aman dengan manipulasi (pengurangan) jumlah suara regional (Aceh) untuk masing-masing paslon capres dan cawapres (lih: tanda panah hijau).
+Kasus gambar SS 0.3 tetap menunjukkan indikator address bar Situng KPU aman dengan proses manipulasi (pengurangan) jumlah suara regional (Aceh) untuk masing-masing paslon capres dan cawapres (lih: tanda panah hijau).
 
 Kesimpulan:
 
