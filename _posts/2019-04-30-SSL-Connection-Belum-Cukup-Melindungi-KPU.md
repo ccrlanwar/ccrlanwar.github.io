@@ -17,7 +17,7 @@ Akan tetapi SSL yang memiliki simbol gembok hijau di address bar Situng KPU belu
 SS 0.1
 <img src="https://i.imgur.com/oLNBrSL.jpg" />
 
-Kalau kita perhatikan gambar SS 0.1 di atas terdapat penampang logo KPU yang telah berubah (lih: tanda panah hijau). Alih-alih berupa logo resmi, penampang SS 0.1 menyajikan manipulasi logo serta icon tab tengkorak. Penampang pada SS 0.1 di atas patut kita pertanyakan keasliannya karena SSL tidak menyertakan indikator sambungan keamanan situs yang ditunjukkan dengan <a href="https://blog.mozilla.org/security/2015/11/03/updated-firefox-security-indicators-2/" target="\_blank"> indikoator ikon warning di tab browser Firefox</a>. Artinya perubahan logo dan ikon bukan berasal dari front-end KPU, tetapi dari pihak ke tiga yang berusaha memanipulasi melalui browser di komputer.
+Kalau kita perhatikan gambar SS 0.1 di atas terdapat penampang logo KPU yang telah berubah (lih: tanda panah hijau). Alih-alih berupa logo resmi, penampang SS 0.1 menyajikan manipulasi logo serta icon tab tengkorak. Penampang pada SS 0.1 di atas patut kita pertanyakan keasliannya karena SSL tidak menyertakan indikator sambungan keamanan situs yang ditunjukkan dengan <a href="https://blog.mozilla.org/security/2015/11/03/updated-firefox-security-indicators-2/" target="\_blank"> indikoator ikon warning di address bar browser Firefox</a>. Artinya perubahan logo dan ikon bukan berasal dari front-end KPU, tetapi dari pihak ke tiga yang berusaha memanipulasi melalui browser di komputer.
 
 SS 0.2
 <img src="https://i.imgur.com/HQLAEMa.jpg" />
