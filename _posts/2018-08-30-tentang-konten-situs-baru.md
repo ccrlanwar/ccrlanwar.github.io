@@ -5,4 +5,4 @@ title: Tentang Konten
 category: Announcement
 tags: [ 'Disclaimer' ]
 ---
-Untuk sementara konten postingan tulisan di blog ini berupa review tulisan sebelum-sebelumnya, <i>and chronologically will be updated. Stay tune.</i>
+Untuk sementara konten postingan tulisan di blog ini berupa review tulisan sebelum-sebelumnya, <i>and chronologically will be updated. Stay tuned.</i>
