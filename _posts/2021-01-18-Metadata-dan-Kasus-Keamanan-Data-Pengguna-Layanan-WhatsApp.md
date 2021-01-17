@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Metadata dan Kasus Keamanan Data Pengguna Layanan WhatsApp
 category: IT
-tags: [ 'Opini' ]
+tags: [ 'Tech' ]
 ---
 
 Seringkali publik atau pengguna layanan WhatsApp bertanya-tanya, sebetulnya apa, sih, yang menjadi isu hangat perihal kasus pengumpulan data (<i>data collection</i>) oleh WhatsApp terhadap penggunanya?
