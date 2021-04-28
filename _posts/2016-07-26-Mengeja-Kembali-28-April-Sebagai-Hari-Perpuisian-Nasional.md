@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Mengeja Kembali 28 April Sebagai Hari Perpuisian Nasional
 category: Opini
-tags: [ 'Tech' ]
+tags: [ 'Artikel' ]
 ---
 
 Belakangan ini, beberapa kalangan seniman sepakat bahwa pada hari kelahiran sastrawan Chairil Anwar, 26 Juli sebagai hari puisi nasional. Hal ini tentu saja berseberangan dengan pendapat pada umumnya, yang menyatakan bahwa hari puisi nasional diselenggarakan tepat di hari kematian Chairil Anwar, yaitu pada 28 April.
