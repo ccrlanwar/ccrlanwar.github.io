@@ -1,10 +1,11 @@
 ---
 layout: post
 section-type: post
-title: RIP Enkripsi: Enkripsi Versus Kebijakan Pemerintah
+title: RIP Enkripsi versus Kebijakan Pemerintah
 category: IT
 tags: [ 'Tech' ]
 ---
+
 
 Sudah menjadi rahasia umum, kebijakan kementerian yang paling banyak menyentuh segala lapisan masyarakat adalah Kementerian Komunikasi dan Informatika (Kemkominfo). Dengan gaung kebijakan “blokir!”-nya, maka sekejap penjuru lapisan masyarakat megap-megap dan sesak nafas dibuatnya. Mulai dari tukang nasi uduk sampai para direktur perusahaan yang rela antre makan di warteg demi mendengar curahan kesamaan derita. Tak lain dan tak bukan, efek samping kebijakan pemblokiran oleh Kemkominfo. 
 
